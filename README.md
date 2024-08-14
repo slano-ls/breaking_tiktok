@@ -12,6 +12,3 @@ This is my TikTok reverse engineering journey, where I completely dissect every 
             - [XOR Encryption](https://github.com/angelillija/TikTok/tree/main/Signing/Mobile/Other#tiktok-email-username--password-encryption)
 - [Captcha Solver](https://github.com/angelillija/TikTok/tree/main/Captcha%20Solver)
 
-### Contact
-- **Telegram**: [t.me/dropout](https://t.me/dropout)
-
