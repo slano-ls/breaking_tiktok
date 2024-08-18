@@ -1,4 +1,4 @@
-# github.com/angelillija
+
 
 import random
 import time
